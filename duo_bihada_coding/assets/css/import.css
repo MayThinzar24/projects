@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* CSS Document */
+@import url('reset.css');
+@import url('slick.css');
+@import url('flashy.min.css');
+@import url('style.css');
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&family=Zen+Maru+Gothic:wght@500;700&display=swap');
